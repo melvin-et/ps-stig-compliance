@@ -9,6 +9,7 @@
 ## Features
 - Covers STIGs I've remediated (e.g., WN10, WS22)
 - Tested on Windows 10 and Server 2022
+![image](https://github.com/user-attachments/assets/687b58e9-647b-45ef-9489-7ec10591ec4f)
 
 ### 📋 STIG Coverage
 
